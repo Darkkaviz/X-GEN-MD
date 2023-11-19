@@ -29,8 +29,8 @@ global.owner = [
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
+global.mods = ['put-your-number','94760552994'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['put-premium-user-number','94760552994']
 global.nomorbot = 'your-bot-number' //Change it to your own
 global.nomorown = 'owner-number' //Change it to your own
 global.namebot = 'bot-name' //change it to your own
